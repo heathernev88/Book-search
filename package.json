@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/heathernev88/Book-search/issues"
   },
-  "homepage": "https://github.com/heathernev88/Book-search#readme"
+  "homepage": "https://github.com/heathernev88/Book-search#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.18",
+    "path": "^0.12.7"
+  }
 }
