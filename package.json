@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/heathernev88/Book-search#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "express": "^4.17.1",
     "mongoose": "^5.10.18",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "socket.io": "^3.0.3"
   }
 }
